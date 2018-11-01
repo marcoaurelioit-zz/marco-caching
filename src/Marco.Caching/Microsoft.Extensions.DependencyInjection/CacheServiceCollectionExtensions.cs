@@ -1,8 +1,8 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Marco.Caching;
 using System;
 using System.Linq;
 
-namespace Marco.Caching.Microsoft.Extensions.DependencyInjection
+namespace Microsoft.Extensions.DependencyInjection
 {
     public static class CacheServiceCollectionExtensions
     {
