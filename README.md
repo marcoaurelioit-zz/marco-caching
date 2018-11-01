@@ -3,7 +3,7 @@
 [![GitHub release](https://img.shields.io/github/release/marcoaurelioit/marco-caching.svg)](https://github.com/marcoaurelioit/marco-caching/releases)
 
 # marco-caching
-Package for cache application.
+Package for cache application (Distributed Memory, SqlServer, Redis).
 
 ## Nuget Packages
 ||Version|Downloads|
